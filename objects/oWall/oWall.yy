@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "oWall",
   "spriteId": {
-    "name": "Sprite2",
-    "path": "sprites/Sprite2/Sprite2.yy",
+    "name": "sWall",
+    "path": "sprites/sWall/sWall.yy",
   },
   "solid": false,
   "visible": true,
